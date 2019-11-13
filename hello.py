@@ -1,7 +1,9 @@
 print("Hello World")
 
 def func():
-	a = input("Whats your name? >>>")
-	print("Hello " + a)
+	a = wayne
+	print("Hello " + a + "\n")
+	total = 5 * 10
+	print(total)
 
 func()
