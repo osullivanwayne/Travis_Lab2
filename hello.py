@@ -1,7 +1,7 @@
 print("Hello World")
 
 def func():
-	a = wayne
+	a = "wayne"
 	print("Hello " + a + "\n")
 	total = 5 * 10
 	print(total)
